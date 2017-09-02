@@ -7,4 +7,4 @@ python package:
 * bs4
 * lxml
 
-其中 pdfkit需要安裝(wkhtmltopdf)[https://github.com/twtrubiks/python-pdfkit-example]
+其中 pdfkit需要安裝[wkhtmltopdf](https://github.com/twtrubiks/python-pdfkit-example)
